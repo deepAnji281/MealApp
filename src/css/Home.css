@@ -1,0 +1,32 @@
+.card-body{
+    height: 250px;
+    width: 350px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    font-style: italic;
+    color:palevioletred;
+    text-align: center;
+
+}
+img{
+    height: 100px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 25px;
+}
+.favu{
+    margin-left: 30px;
+    margin-top: 25px;
+    border-radius: 20px;
+    background-color: green;
+    font-size: larger;
+}
+.patch-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

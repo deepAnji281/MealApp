@@ -1,0 +1,13 @@
+.meal{
+    height: 300px;
+    width: 1260px;
+    border: 1px solid black;
+    margin: 10px;
+    color:gray;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.meal p{
+    margin-left: 10px;
+    font-weight: bolder;
+}

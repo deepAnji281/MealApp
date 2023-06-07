@@ -1,0 +1,15 @@
+.card{
+    height: 300px;
+        width: 350px;
+        border: 1px solid black;
+        margin: 20px;
+        border-radius: 20px;
+        text-transform: capitalize;
+        font-style: italic;
+        color: palevioletred;
+        text-align: center;
+}
+.card-Body{
+    display: flex;
+    flex-wrap: wrap;
+}
