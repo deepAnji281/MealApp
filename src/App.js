@@ -9,7 +9,7 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-   <BrowserRouter>
+   <BrowserRouter basename='/MealAPP'>
     <Routes>
       <Route exec path='/' element={<><NavBar/></>}/>
       <Route exec path='/meals' element={<><NavBar/><Meal/></>}/>
