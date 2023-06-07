@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MealApp/static/css/main.9a4f1eee.css",
-    "main.js": "/MealApp/static/js/main.f1f3a87a.js",
+    "main.css": "/MealApp/static/css/main.3723ffff.css",
+    "main.js": "/MealApp/static/js/main.eb279246.js",
     "static/js/787.bc103b20.chunk.js": "/MealApp/static/js/787.bc103b20.chunk.js",
     "index.html": "/MealApp/index.html",
-    "main.9a4f1eee.css.map": "/MealApp/static/css/main.9a4f1eee.css.map",
-    "main.f1f3a87a.js.map": "/MealApp/static/js/main.f1f3a87a.js.map",
+    "main.3723ffff.css.map": "/MealApp/static/css/main.3723ffff.css.map",
+    "main.eb279246.js.map": "/MealApp/static/js/main.eb279246.js.map",
     "787.bc103b20.chunk.js.map": "/MealApp/static/js/787.bc103b20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a4f1eee.css",
-    "static/js/main.f1f3a87a.js"
+    "static/css/main.3723ffff.css",
+    "static/js/main.eb279246.js"
   ]
 }
